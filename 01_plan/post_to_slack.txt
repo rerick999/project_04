@@ -1,0 +1,13 @@
+1)
+data link
+https://www.openml.org/search?type=data&sort=runs&status=active&id=24
+
+target variable
+categorical discrete
+(edible or poisonous)
+
+2)
+models
+random forest
+decision tree
+also, maybe logistic regression if we can resolve missing values)
