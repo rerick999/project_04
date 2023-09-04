@@ -12,7 +12,6 @@ Your project must be powered by a dataset with at least 10,000 records.
 You must use Pandas and Matplotlib
     A pandas and maplotlib notebook is in 05_pandas_matplotlib
 
-
 You must use a database (Can just store into PostgreSQL or a SQLite file - no need to retrieve your data from it)
     Our postgresql database is located at database-1.chmbbjazziaf.us-west-2.rds.amazonaws.com port 5432
     A readonly user is bootcamp_readonly password truly
