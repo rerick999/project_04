@@ -1,0 +1,7 @@
+﻿model,accuracy
+Logistic Regression,94
+Decision Tree,100
+Random Forest,100
+Gradient Boost Classifier,100
+XGBoost,100
+Neural Network,100
