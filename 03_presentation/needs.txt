@@ -1,6 +1,0 @@
-1) explain the data set
-2) grid showing the various models and their performance measures
-3) perhaps a bar chart showing the performance
-4) description of model utility
-5) have a chosen model
-
